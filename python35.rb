@@ -8,7 +8,7 @@ class Python35 < Formula
   stable do
     url "https://www.python.org/ftp/python/3.5.3/Python-3.5.3.tgz"
     version "3.5.3"
-    sha256 "bc93e944025816ec360712b4c42d8d5f729eaed2b26585e9bc8844f93f0c382e"
+    sha256 "d8890b84d773cd7059e597dbefa510340de8336ec9b9e9032bf030f19291565a"
 
     # Patch for pyport.h macro issue
     # https://bugs.python.org/issue10910
